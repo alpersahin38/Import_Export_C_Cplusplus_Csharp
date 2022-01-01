@@ -5,8 +5,8 @@
 
  /**
   * @file ce103-hw4-c-dll.h
-  * @author Bedirhan OZCELIK
-  * @date 03 October 2021
+  * @author Alper Sahin
+  * @date 31 December 2021
   *
   * @brief <b> HW-4 Functions </b>
   *
